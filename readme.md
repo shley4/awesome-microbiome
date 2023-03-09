@@ -2,7 +2,18 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-List of software/packages for meta-omic data analysis, including short reads, long reads, and hybrid. [Contributions welcome](https://github.com/goekelab/awesome-nanopore#contributing)...
+List of software/packages for meta-omic data analysis, including assembly (short reads, long reads, and hybrid), genome recovery, annotation, taxonomy, abandance, and so on. [Contributions welcome](https://github.com/goekelab/awesome-nanopore#contributing)...
+## sequencing data quality control
+- [FastQC](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/) - [?] - A quality control tool for high throughput sequence data.
+- [fastp](https://github.com/OpenGene/fastp) - [C++/C] - [fastp: an ultra-fast all-in-one FASTQ preprocessor](https://academic.oup.com/bioinformatics/article/34/17/i884/5093234)
+- [Trimmomatic](https://github.com/usadellab/Trimmomatic) - [Java] - [Trimmomatic: a flexible trimmer for Illumina sequence data](https://academic.oup.com/bioinformatics/article/30/15/2114/2390096)
+- [Cutadapt](https://github.com/marcelm/cutadapt) - [Python] - [Cutadapt Removes Adapter Sequences From High-Throughput Sequencing Reads](https://doi.org/10.14806/ej.17.1.200)
+- [FastUniq](https://sourceforge.net/projects/fastuniq/files/) - [C++?] - [FastUniq: A Fast De Novo Duplicates Removal Tool for Paired Short Reads](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0052249)
+
+## Amplicon
+- [EasyAmplicon](https://github.com/YongxinLiu/EasyAmplicon) - [EasyAmplicon: An easy-to-use, open-source, reproducible, and community-based pipeline for amplicon data analysis in microbiome research](https://onlinelibrary.wiley.com/doi/full/10.1002/imt2.83). Beautiful figures.
+- [dada2](https://benjjneb.github.io/dada2/index.html) - [R] [DADA2: High resolution sample inference from Illumina amplicon data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4927377/)
+- [QIIME2](https://qiime2.org/) - [?] - [Reproducible, interactive, scalable and extensible microbiome data science using QIIME 2](https://doi.org/10.1038/s41587-019-0209-9)
 
 ## assembly
 ### assembly - short reads
@@ -23,14 +34,12 @@ List of software/packages for meta-omic data analysis, including short reads, lo
 
 
 ## genomes recovery
-
 ### software packages
-- [metabat2](https://bitbucket.org/berkeleylab/metabat) - [C++] - [MetaBAT 2: an adaptive binning algorithm for robust and efficient genome reconstruction from metagenome assemblies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6662567/)
-- [maxbin2](https://sourceforge.net/projects/maxbin2/) - [C++] - [MaxBin 2.0: an automated binning algorithm to recover genomes from multiple metagenomic datasets](https://academic.oup.com/bioinformatics/article/32/4/605/1744462)
+- [MetaBAT2](https://bitbucket.org/berkeleylab/metabat) - [C++] - [MetaBAT 2: an adaptive binning algorithm for robust and efficient genome reconstruction from metagenome assemblies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6662567/)
+- [MaxBin2](https://sourceforge.net/projects/maxbin2/) - [C++] - [MaxBin 2.0: an automated binning algorithm to recover genomes from multiple metagenomic datasets](https://academic.oup.com/bioinformatics/article/32/4/605/1744462)
 - [CONCOCT](https://github.com/BinPro/CONCOCT) - [Python] - [Binning metagenomic contigs by coverage and composition](https://www.nature.com/articles/nmeth.3103)
 - [VAMB](https://github.com/RasmussenLab/vamb) - [Python] - [Improved metagenome binning and assembly using deep variational autoencoders](https://www.nature.com/articles/s41587-020-00777-4)
 - [UniteM](https://github.com/donovan-h-parks/UniteM) - [Python] - a software toolkit implementing different ensemble binning strategies for producing a non-redundant set of bins from the output of multiple binning methods.
-
 
 ## read mapping
 ### short-read mapping
@@ -47,7 +56,37 @@ List of software/packages for meta-omic data analysis, including short reads, lo
 - [CheckM](https://github.com/Ecogenomics/CheckM) - [Python] - [CheckM: assessing the quality of microbial genomes recovered from isolates, single cells, and metagenomes](https://pubmed.ncbi.nlm.nih.gov/25977477/)
 - [CheckM2](https://github.com/chklovski/CheckM2) - [Scilab] - [bioRxiv - CheckM2: a rapid, scalable and accurate tool for assessing microbial genome quality using machine learning](https://www.biorxiv.org/content/10.1101/2022.07.11.499243v1)
 - [BUSCO](https://gitlab.com/ezlab/busco) - [arXiv- BUSCO update: novel and streamlined workflows along with broader and deeper phylogenetic coverage for scoring of eukaryotic, prokaryotic, and viral genomes](http://arxiv.org/abs/2106.11799)
+- [GTDBTk](https://github.com/Ecogenomics/GTDBTk) - [Python] - [ GTDB-Tk v2: memory friendly classification with the Genome Taxonomy Database](https://academic.oup.com/bioinformatics/article/38/23/5315/6758240?login=false&utm_source=advanceaccess&utm_campaign=bioinformatics&utm_medium=email)
 
+## gene prediction
+- [Prodigal](https://github.com/hyattpd/Prodigal) - [C] - [Prodigal: prokaryotic gene recognition and translation initiation site identification](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-11-119)
+- [Prokka](https://github.com/tseemann/prokka) - [Perl] - [Prokka: rapid prokaryotic genome annotation](http://www.ncbi.nlm.nih.gov/pubmed/24642063)
+
+## genome annotation
+### tools
+- [eggNOG-mapper v2](https://github.com/eggnogdb/eggnog-mapper) - [Python] - [eggNOG-mapper v2: functional annotation, orthology assignments, and domain prediction at the metagenomic scale](https://doi.org/10.1093/molbev/msab293)
+- [KofamScan](https://www.genome.jp/ftp/tools/kofam_scan/) - [NA] - [KofamKOALA: KEGG ortholog assignment based on profile HMM and adaptive score threshold](https://doi.org/10.1093/bioinformatics/btz859)
+
+### databases
+- [eggNOG 6.0](http://eggnog6.embl.de/) - [eggNOG 6.0: Enabling comparative genomics across 12,535 organisms.](https://doi.org/10.1093/nar/gkac1022)
+- [KEGG] 
+
+## phylogenetics analysis
+### phylogeny construction
+- [tree]
+- []
+
+### phylogeny visualization
+- [iTol]
+- [ARB]
+
+## comparative genomics
+- [fastANI]
+- [AAI]
+- [synteny]
+- [snp]
+- [indel]
+- [sv]
 
 ## workflows
 - [Aviary](https://github.com/rhysnewell/aviary) - [Python] - a snakemake pipeline for assembly, binning, annotation, and strain diversity analysis.
