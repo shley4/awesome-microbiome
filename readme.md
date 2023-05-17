@@ -34,7 +34,7 @@ List of software/packages for meta-omic data analysis, including assembly (short
 
 
 ## genomes recovery
-### software packages
+### tools and workflows
 - [MetaBAT2](https://bitbucket.org/berkeleylab/metabat) - [C++] - [MetaBAT 2: an adaptive binning algorithm for robust and efficient genome reconstruction from metagenome assemblies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6662567/)
 - [MaxBin2](https://sourceforge.net/projects/maxbin2/) - [C++] - [MaxBin 2.0: an automated binning algorithm to recover genomes from multiple metagenomic datasets](https://academic.oup.com/bioinformatics/article/32/4/605/1744462)
 - [CONCOCT](https://github.com/BinPro/CONCOCT) - [Python] - [Binning metagenomic contigs by coverage and composition](https://www.nature.com/articles/nmeth.3103)
@@ -57,19 +57,22 @@ List of software/packages for meta-omic data analysis, including assembly (short
 - [CheckM2](https://github.com/chklovski/CheckM2) - [Scilab] - [bioRxiv - CheckM2: a rapid, scalable and accurate tool for assessing microbial genome quality using machine learning](https://www.biorxiv.org/content/10.1101/2022.07.11.499243v1)
 - [BUSCO](https://gitlab.com/ezlab/busco) - [arXiv- BUSCO update: novel and streamlined workflows along with broader and deeper phylogenetic coverage for scoring of eukaryotic, prokaryotic, and viral genomes](http://arxiv.org/abs/2106.11799)
 - [GTDBTk](https://github.com/Ecogenomics/GTDBTk) - [Python] - [ GTDB-Tk v2: memory friendly classification with the Genome Taxonomy Database](https://academic.oup.com/bioinformatics/article/38/23/5315/6758240?login=false&utm_source=advanceaccess&utm_campaign=bioinformatics&utm_medium=email)
+- [RefineM](https://github.com/donovan-h-parks/RefineM) - [Python] - A toolbox for improving metagenome-assembled genomes.
+- [MAGpurify](https://github.com/snayfach/MAGpurify) - [Python] - [New insights from uncultivated genomes of the global human gut microbiome](https://www.nature.com/articles/s41586-019-1058-x)
+
 
 ## gene prediction
 - [Prodigal](https://github.com/hyattpd/Prodigal) - [C] - [Prodigal: prokaryotic gene recognition and translation initiation site identification](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-11-119)
 - [Prokka](https://github.com/tseemann/prokka) - [Perl] - [Prokka: rapid prokaryotic genome annotation](http://www.ncbi.nlm.nih.gov/pubmed/24642063)
 
-## genome annotation
+## gene annotation
 ### tools
 - [eggNOG-mapper v2](https://github.com/eggnogdb/eggnog-mapper) - [Python] - [eggNOG-mapper v2: functional annotation, orthology assignments, and domain prediction at the metagenomic scale](https://doi.org/10.1093/molbev/msab293)
 - [KofamScan](https://www.genome.jp/ftp/tools/kofam_scan/) - [NA] - [KofamKOALA: KEGG ortholog assignment based on profile HMM and adaptive score threshold](https://doi.org/10.1093/bioinformatics/btz859)
 
 ### databases
 - [eggNOG 6.0](http://eggnog6.embl.de/) - [eggNOG 6.0: Enabling comparative genomics across 12,535 organisms.](https://doi.org/10.1093/nar/gkac1022)
-- [KEGG] 
+- [KEGG]
 
 ## phylogenetics analysis
 ### phylogeny construction
