@@ -14,10 +14,10 @@ List of tools for microbiome data.
 
 ## polish long reads or assemblies
 - [FMLRC2](https://github.com/HudsonAlpha/fmlrc2) - [Rust] - [FMLRC2 reference: Mak, Q. C., _et al_. (2023). Polishing de novo nanopore assemblies of bacteria and eukaryotes with FMLRC2. _Molecular Biology and Evolution_, 40(3), msad048](https://doi.org/10.1093/molbev/msad048)
-- [pilon](https://github.com/broadinstitute/pilon) - [Scala] - [Bruce J. Walker, _et al_. (2014) Pilon: An Integrated Tool for Comprehensive Microbial Variant Detection and Genome Assembly Improvement. _PLoS ONE_ 9(11): e112963](doi:10.1371/journal.pone.0112963)
+- [pilon](https://github.com/broadinstitute/pilon) - [Scala] - [Bruce J. Walker, _et al_. (2014) Pilon: An Integrated Tool for Comprehensive Microbial Variant Detection and Genome Assembly Improvement. _PLoS ONE_ 9(11): e112963](https://doi.org/10.1371/journal.pone.0112963)
 - [NextPolish](https://github.com/Nextomics/NextPolish) - [NA] - [Hu, Jiang, _et al_. “NextPolish: a fast and efficient genome polishing tool for long read assembly.” Bioinformatics (Oxford, England) (2019)](https://doi.org/10.1093/bioinformatics/btz891)
-- [Polypolish](https://github.com/rrwick/Polypolish) - [Rust] - [Bouras G, Judd LM, Edwards RA, Vreugde S, Stinear TP, Wick RR. How low can you go? Short-read polishing of Oxford Nanopore bacterial genome assemblies. _Microbial Genomics_. 2024](doi:10.1099/mgen.0.001254)
-- [pypolca](https://github.com/gbouras13/pypolca) - [Python] - [Bouras G, Judd LM, Edwards RA, Vreugde S, Stinear TP, Wick RR. How low can you go? Short-read polishing of Oxford Nanopore bacterial genome assemblies. _Microbial Genomics_. 2024](doi:10.1099/mgen.0.001254)
+- [Polypolish](https://github.com/rrwick/Polypolish) - [Rust] - [Bouras G, Judd LM, Edwards RA, Vreugde S, Stinear TP, Wick RR. How low can you go? Short-read polishing of Oxford Nanopore bacterial genome assemblies. _Microbial Genomics_. 2024](https://doi.org/10.1099/mgen.0.001254)
+- [pypolca](https://github.com/gbouras13/pypolca) - [Python] - [Bouras G, Judd LM, Edwards RA, Vreugde S, Stinear TP, Wick RR. How low can you go? Short-read polishing of Oxford Nanopore bacterial genome assemblies. _Microbial Genomics_. 2024](https://doi.org/10.1099/mgen.0.001254)
 
 ## Amplicon
 ### tools
@@ -38,12 +38,12 @@ List of tools for microbiome data.
 - [PenuiN](https://github.com/soedinglab/plass) - [C] - [Annika Jochheim, _et al_., _bioRxiv_, 2024. Strain-resolved de-novo metagenomic assembly of viral genomes and microbial 16S rRNAs](https://doi.org/10.1101/2024.03.29.587318)
 
 ### assembly - long reads
-- [metaFlye](https://github.com/fenderglass/Flye) - [C/C++] - [metaFlye: scalable long-read metagenome assembly using repeat graphs](metaFlye: scalable long-read metagenome assembly using repeat graphs)
+- [metaFlye](https://github.com/fenderglass/Flye) - [C/C++] - [metaFlye: scalable long-read metagenome assembly using repeat graphs](https://doi.org/10.1038/s41592-020-00971-x)
 - [Canu](https://github.com/marbl/canu) - [C++/C] - [Canu: scalable and accurate long-read assembly via adaptive k-mer weighting and repeat separation](https://genome.cshlp.org/content/27/5/722)
 - [FALCON](https://github.com/PacificBiosciences/FALCON) - [Pytohn]
 - [miniasm](https://github.com/lh3/miniasm) - [TeX/C] - [Minimap and miniasm: fast mapping and de novo assembly for noisy long sequences](https://academic.oup.com/bioinformatics/article/32/14/2103/1742895)
 - [wtdbg2](https://github.com/ruanjue/wtdbg2) - [C] - [Fast and accurate long-read assembly with wtdbg2](https://www.nature.com/articles/s41592-019-0669-3)
-- [Trycycler](https://github.com/rrwick/Trycycler) - [Pyton] - [Wick RR, _et al_. Trycycler: consensus long-read assemblies for bacterial genomes. _Genome Biology_. 2021](doi:10.1186/s13059-021-02483-z)
+- [Trycycler](https://github.com/rrwick/Trycycler) - [Pyton] - [Wick RR, _et al_. Trycycler: consensus long-read assemblies for bacterial genomes. _Genome Biology_. 2021](https://doi.org/10.1186/s13059-021-02483-z)
 - [NextDenovo](https://github.com/Nextomics/NextDenovo) - [C] - [Hu, J., Wang, Z., Sun, Z. _et al_. NextDenovo: an efficient error correction and accurate assembly tool for noisy long reads. _Genome Biol_ 25, 107 (2024)](https://doi.org/10.1186/s13059-024-03252-4)
 - [hifiasm-meta](https://github.com/xfengnefx/hifiasm-meta/) - [C++] - [Feng, X., Li, H. Evaluating and improving the representation of bacterial contents in long-read metagenome assemblies. _Genome Biol_ 25, 92 (2024)](https://doi.org/10.1186/s13059-024-03234-6)
 
@@ -141,7 +141,7 @@ List of tools for microbiome data.
 ## phylogenetics analysis
 ### phylogeny construction
 - [IQ-TREE](http://www.iqtree.org) - [Bui Quang Minh, _et al_. IQ-TREE 2: New Models and Efficient Methods for Phylogenetic Inference in the Genomic Era, Molecular Biology and Evolution, Volume 37, Issue 5, May 2020, Pages 1530–1534](https://doi.org/10.1093/molbev/msaa015)
-- [fasttree](http://www.microbesonline.org/fasttree/) - [Price, M.N., Dehal, P.S., and Arkin, A.P. (2010) FastTree 2 -- Approximately Maximum-Likelihood Trees for Large Alignments. _PLoS ONE_, 5(3):e9490](doi:10.1371/journal.pone.0009490)
+- [fasttree](http://www.microbesonline.org/fasttree/) - [Price, M.N., Dehal, P.S., and Arkin, A.P. (2010) FastTree 2 -- Approximately Maximum-Likelihood Trees for Large Alignments. _PLoS ONE_, 5(3):e9490](https://doi.org/10.1371/journal.pone.0009490)
 
 ### tree visualization
 - [iTol](https://itol.embl.de) - [Web] - [Ivica Letunic, Peer Bork. Interactive Tree of Life (iTOL) v6: recent updates to the phylogenetic tree display and annotation tool](https://doi.org/10.1093/nar/gkae268)
