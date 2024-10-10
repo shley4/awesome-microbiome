@@ -1,0 +1,44 @@
+## bin
+
+### 工具和工作流 | tool and workflows
+- [COCACOLA](https://github.com/younglululu/COCACOLA) - [MATLAB/C++, 2015] - [2017.3, _Bioinformatics_] - [[COCACOLA: binning metagenomic contigs using sequence COmposition, read CoverAge, CO-alignment and paired-end read LinkAge.](https://doi.org/10.1093/bioinformatics/btw290)]
+- [[MetaBAT2](https://bitbucket.org/berkeleylab/metabat)] - [C++, v2.17, 2023.09] - [2019.07, _PeerJ_] - [[MetaBAT 2: an adaptive binning algorithm for robust and efficient genome reconstruction from metagenome assemblies.](https://doi.org/10.7717/peerj.7359)]
+- [[MaxBin2](https://sourceforge.net/projects/maxbin2/)] - [C++, 2.2.7, 2020.06] - [2015.10, _Bioinformatics_] - [[MaxBin 2.0: an automated binning algorithm to recover genomes from multiple metagenomic datasets.](https://doi.org/10.1093/bioinformatics/btv638)]
+- [[CONCOCT](https://github.com/BinPro/CONCOCT)] - [Python, v1.1.0, 2019.08] - [2014.09, _Nat Methods_] - [[Binning metagenomic contigs by coverage and composition.](https://doi.org/10.1038/nmeth.3103)]
+- [[VAMB](https://github.com/RasmussenLab/vamb)] - [Python, v4.1.3, 2023.06] - [2021.01, _Nat Biotechnol_] - [[Improved metagenome binning and assembly using deep variational autoencoders.](https://doi.org/10.1038/s41587-020-00777-4)]
+- [[UniteM](https://github.com/dparks1134/UniteM)] - [Python, 1.2.4, 2022.10]
+- [[SemiBin](https://github.com/BigDataBiology/SemiBin)] - [Python, v1.5.1, 2023.03] - [2022.04, _Nat Commun_] - [[A deep siamese neural network improves metagenome-assembled genomes in microbiome datasets across different environments.](https://doi.org/10.1038/s41467-022-29843-y)]
+- [[SemiBin2](https://github.com/BigDataBiology/SemiBin)] - [Python, v2.1.0, 2024.03] - [22023.06, _Bioinformatics_] - [[SemiBin2: self-supervised contrastive learning leads to better MAGs for short- and long-read sequencing.](https://doi.org/10.1093/bioinformatics/btad209)] - [[Benchmark](https://github.com/BigDataBiology/SemiBin2_benchmark)]
+- [[Smeta](https://github.com/YuhaoZhangwow/SMeta)] - [C++, NoTag, 2024.09] - [2024.08, _bioRxiv_] - [[SMeta, a binning tool using single-cell sequences to aid in reconstructing species from metagenome accurately.](https://doi.org/10.1101/2024.08.25.609542)]
+- [[Bin Chiken](https://github.com/AroneyS/binchicken)] - [Python, v0.12.5, 20224.09] - [No pub yet.]
+- [[MetaCoAG](https://github.com/metagentools/MetaCoAG)] - [Python, v1.2.2, 2024.9] - [2022.4, _Research in Computational Molecular Biology, conference paper_] - [[MetaCoAG: Binning Metagenomic Contigs via Composition, Coverage and Assembly Graphs.](https://doi.org/10.1007/978-3-031-04749-7_5)]
+- [[GraphBin](https://github.com/metagentools/GraphBin)] - [Python, v1.7.4, 2024.8] - [2020.6, _Bioinformatics_] - [[GraphBin: Refined binning of metagenomic contigs using assembly graphs.](https://doi.org/10.1093/bioinformatics/btaa180)]
+- [[GraphBin2](https://github.com/metagentools/GraphBin2)] - [Python, v1.3.3, 2024.9] - [2021.5, _Algorithms Mol Biol_] - [[Improving metagenomic binning results with overlapped bins using assembly graphs.](https://doi.org/10.1186/s13015-021-00185-6)]
+- [[MetaBinner](https://github.com/ziyewang/MetaBinner)] - [Python/Perl, v1.4.4, 2022.9] - [2023.1, _Genome Biol_] - [[MetaBinner: a high-performance and stand-alone ensemble binning method to recover individual genomes from complex microbial communities.](https://doi.org/10.1186/s13059-022-02832-6)]
+
+### MAG 提升 | MAG improvement
+- [[Circlator](https://github.com/sanger-pathogens/circlator)] - [Python, v1.5.5-docker5, 2020.10] - [2015.12, _Genome Biol_] [[Circlator: automated circularization of genome assemblies using long sequencing reads](https://doi.org/10.1186/s13059-015-0849-0)]
+- [[gapFinisher](https://github.com/kammoji/gapFinisher)] - [2019] - [2019.9, _PloS One_] - [[gapFinisher: A reliable gap filling pipeline for SSPACE-LongRead scaffolder output.](https://doi.org/10.1371/journal.pone.0216885)]
+- [[FGAP](https://github.com/pirovc/fgap)] - [MATLAB, v1.8.1, 2017.11] - [2014.6, _BMC Res Notes_] - [[FGAP: an automated gap closing tool.](http://doi.org/10.1186/1756-0500-7-371)]
+- [[MaSuRCA/samba.sh](https://github.com/alekseyzimin/masurca)] - [2022.2, _PLoS Comput Biol_] - [[The SAMBA tool uses long reads to improve the contiguity of genome assemblies.](https://doi.org/10.1371/journal.pcbi.1009860)]
+
+## strain-level resolve
+- [[Floria](https://github.com/bluenote-1577/floria)] - [Rust, v0.0.1, 2024.1] - [2024.6, _Bioinformatics_] - [[Floria: fast and accurate strain haplotyping in metagenomes](https://doi.org/10.1093/bioinformatics/btae252)]
+- [[Lorikeet](https://github.com/rhysnewell/Lorikeet)] - [Rust, v0.8.2, 2023.12] - [Strain resolver for metagenomics]
+- [[STRONG](https://github.com/chrisquince/STRONG)] - [Python, v0.0.1-beta(pre), 2021.5] - [2021.7, _Genome Biol_] - [[STRONG: metagenomics strain resolution on assembly graphs.](https://doi.org/10.1186/s13059-021-02419-7)]
+- [[Strainberry](https://github.com/rvicedomini/strainberry)] - [Python, v1.1, 2021.5] - [2021.7, _Nat Commun_] - [[Strainberry: automated strain separation in low-complexity metagenomes using long reads.](https://doi.org/10.1038/s41467-021-24515-9)]
+- [[inStrain](https://github.com/MrOlm/inStrain)] - [Python, v1.3.1, 2020.8] - [2021.1, _Nat Biotechnol_] - [[inStrain profiles population microdiversity from metagenomic data and sensitively detects shared microbial strains.](https://doi.org/10.1038/s41587-020-00797-0)]
+- [[Strainy](https://github.com/katerinakazantseva/strainy)] - [Python, v1.1, 2024.9] - [2024.9, _Nat Methods_] - [[Strainy: phasing and assembly of strain haplotypes from long-read metagenome sequencing.](https://doi.org/10.1038/s41592-024-02424-1)]
+
+
+### MAG 评估 | MAG assessment
+- [[BUSCO](https://gitlab.com/ezlab/busco)] - [Python, v5.7.1, 2024.04] - [2021.06, _arXiv_] - [[BUSCO update: novel and streamlined workflows along with broader and deeper phylogenetic coverage for scoring of eukaryotic, prokaryotic, and viral genomes.](http://arxiv.org/abs/2106.11799)]
+- [[CheckM](https://github.com/Ecogenomics/CheckM)] - [Python, v1.2.3, 2024.06] - [2015.07, _Genome Res_] - [[CheckM: assessing the quality of microbial genomes recovered from isolates, single cells, and metagenomes.](https://doi.org/10.1101/gr.186072.114)]
+- [[CheckM2](https://github.com/chklovski/CheckM2)] - [Python, v1.0.2, 2023.05] - [2023.07, _Nat Methods_]- [[CheckM2: a rapid, scalable and accurate tool for assessing microbial genome quality using machine learning.](https://doi.org/10.1038/s41592-023-01940-w)]
+- [[RefineM](https://github.com/dparks1134/RefineM)] - [Python, v0.1.2, 2020.11] - [2017.09, _Nat Microbiol_] - [[Recovery of nearly 8,000 metagenome-assembled genomes substantially expands the tree of life.](https://doi.org/10.1038/s41564-017-0012-7)] - [**Unsupported**]
+- [[MAGpurify](https://github.com/snayfach/MAGpurify)] - [Python, v2.1.2, 2020.03] - [2019.03, _Nature_] - [[New insights from uncultivated genomes of the global human gut microbiome.](https://doi.org/10.1038/s41586-019-1058-x)]
+- [[GUNC](https://github.com/grp-bork/gunc)] - [Python, v1.0.6, 2023.11] - [2021.06, _Genome Biol_] - [[GUNC: Detection of Chimerism and Contamination in Prokaryotic Genomes.](https://doi.org/10.1186/s13059-021-02393-0)]
+- [[DFAST_QC](https://github.com/nigyta/dfast_qc)] - [Python, v1.0.5, 2024.09] - [2024.07, _bioRxiv_] - [[DFAST_QC: Quality Assessment and Taxonomic Identification Tool for Prokaryotic Genomes.](https://doi.org/10.1101/2024.07.22.604526)]
+- [[dRep](https://github.com/MrOlm/drep)] - [Python, v3.4.2, 2023.02] - [2017.07, _ISME J_] - [[dRep: a tool for fast and accurate genomic comparisons that enables improved genome recovery from metagenomes through de-replication.](https://doi.org/10.1038/ismej.2017.126)]
+- [[DAS Tool](https://github.com/cmks/DAS_Tool)] - [R/Ruby, v1.1.7, 2024.01] - [2018.05, _Nat Microbial_] - [[Recovery of genomes from metagenomes via a dereplication, aggregation and scoring strategy.](https://doi.org/10.1038/s41564-018-0171-1)]
+- [[Binette](https://github.com/genotoul-bioinfo/Binette)] - [Python, v1.0.3, 2024.9] - [A fast and accurate binning refinement tool to constructs high quality MAGs from the output of multiple binning tools.]
