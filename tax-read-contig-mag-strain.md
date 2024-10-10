@@ -1,0 +1,25 @@
+## 分类 | taxonomy | metagenome profile
+
+### 分类read | read based
+- [[MetaPhlAn](https://github.com/biobakery/MetaPhlAn)] - [Python, v4.1.1, 2024.05] - [2023.02, _Nat Biotechnoll_] - [[Extending and improving metagenomic taxonomic profiling with uncharacterized species using MetaPhlAn 4.](https://doi.org/10.1038/s41587-023-01688-w)]
+- [[StrainPhlAn](https://github.com/biobakery/MetaPhlAn)] - [Python, v4.1.1, 2024.05] - [2017.02, _Genome Res_] - [[Microbial strain-level population structure and genetic diversity from metagenomes.](https://dx.doi.org/10.1101/gr.216242.116)]
+- [[kraken2](https://github.com/DerrickWood/kraken2)] - [C++, v2.1.3, 2023.06] - [2019.11, _Genome Biol_] - [[Improved metagenomic analysis with Kraken 2.](https://doi.org/10.1186/s13059-019-1891-0)]
+- [[Metabuli](https://github.com/steineggerlab/Metabuli)] - [C++, v1.0.7, 2024.9] - [2024.05, _Nat Methods_] - [[Metabuli: sensitive and specific metagenomic classification via joint analysis of amino acid and DNA.](https://doi.org/10.1038/s41592-024-02273-y)]
+- [[SingleM Microbial Fraction(SMF)](https://github.com/EisenRa/2024_soil_dark_matter_reply)] - [Python, na, na] - [2024.09, _ISME C_] - [[Quantifying microbial DNA in metagenomes improves microbial trait estimation.](https://doi.org/10.1093/ismeco/ycae111)]
+~~- [[sylph](https://github.com/bluenote-1577/sylph)] - [Rust, v0.6.1, 2024.4] - [2024.1, _bioRxiv_] - [[Metagenome profiling and containment estimation through abundance-corrected k-mer sketching with sylph](https://doi.org/10.1101/2023.11.20.567879)]~~
+- [[sylph](https://github.com/bluenote-1577/sylph)] - [Rust, v0.6.1, 2024.4] - [2024.10, _Nat Biotechnol_] - [[Metagenome profiling and containment estimation through abundance-corrected k-mer sketching with sylph](https://doi.org/10.1038/s41587-024-02412-y)]
+- [[Kaiju](https://github.com/bioinformatics-centre/kaiju)] - [C, v1.10.1, 2024.3] - [2016.4, _Nat Commun_] - [[Fast and sensitive taxonomic classification for metagenomics with Kaiju.](https://doi.org/10.1038/ncomms11257)]
+
+
+## 分类contig | contig based
+- [[MEGAN6](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/algorithms-in-bioinformatics/software/megan6/)] - [2018.4, _Biol Direct_] - [[MEGAN-LR: new algorithms allow accurate binning and easy interactive exploration of metagenomic long reads and contigs.](https://doi.org/10.1186/s13062-018-0208-7)]
+[[MMseq2/easy-taxonomy](https://github.com/soedinglab/mmseqs2)] - [C/C++, v15-6f452, 2023.10] - [2021.3, _Bioinformatics_] - [[Fast and sensitive taxonomic assignment to metagenomic contigs.](https://doi.org/10.1093/bioinformatics/btab184)]
+- [[CDKAM](https://github.com/SJTU-CGM/CDKAM)] - [C++/Perl, v1.1, 2020.11] - [2020.10, _BMC Bioinformatics_] - [[CDKAM: a taxonomic classification tool using discriminative k-mers and approximate matching strategies.](https://doi.org/10.1186/s12859-020-03777-y)]
+- [MetaMaps](https://github.com/DiltheyLab/MetaMaps) - [Perl/C++, No ver release] - [2019.7, _Nat Commun_] - [Strain-level metagenomic assignment and compositional estimation for long reads with MetaMaps.](https://doi.org/10.1038/s41467-019-10934-2)]
+- [[BugSeq](https://app.bugseq.com/academic)] - [Web Online, 可试用] - [2021.3, _BMC Bioinformatics_] - [[BugSeq: a highly accurate cloud platform for long-read metagenomic analyses.](https://doi.org/10.1186/s12859-021-04089-5)]
+- [[Vamb/Taxometer](https://github.com/RasmussenLab/vamb)] - [Python, v4.1.3, 2023.6] - [2024.9, _Nat Commun_] - [[Taxometer: Improving taxonomic classification of metagenomics contigs](https://doi.org/10.1038/s41467-024-52771-y)]
+- [[geNomad](https://github.com/apcamargo/genomad)] - [Python, v1.8.0, 2024.4] - [2023.9, _Nat Biotechnol_] - [[Identification of mobile genetic elements with geNomad.](https://doi.org/10.1038/s41587-023-01953-y)]
+
+### MAG分类 | MAG based
+- [[GTDB-Tk](https://github.com/ecogenomics/gtdbtk)] - [Python, v1.7.0, 2021.10] - [2020.3, _Bioinformatics_] - [[GTDB-Tk: a toolkit to classify genomes with the Genome Taxonomy Database.](https://doi.org/10.1093/bioinformatics/btz848)]
+- [[GTDB-Tk](https://github.com/Ecogenomics/GTDBTk)] - [Python, v2.4.0, 2024.04] - [2022.10, _Bioinformatics_] - [[GTDB-Tk v2: memory friendly classification with the Genome Taxonomy Database.](https://doi.org/10.1093/bioinformatics/btac672)]
