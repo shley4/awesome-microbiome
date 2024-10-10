@@ -1,5 +1,7 @@
 # magic_microbiome
 
+The magic microbiome collects tools, algorithms, workflows, and databases for microbiome.
+
 - [扩增子数据分析相关的工具和数据库 | tools and databases for amplicon data](./amplicon.md)
 - [工作流程-宏基因组和分离菌 | workflows for metagenomes and isolates](./workflows-metagenome-isolates.md)
 - [微生物基因组的资源 | microbial genomes resources](./microbial-genomes-resource.md)
