@@ -1,0 +1,14 @@
+## 基因和元件预测 | genes and elements prediction
+- [[Prodigal](https://github.com/hyattpd/Prodigal)] - [C, v2.6.3, 2016.02] - [2010.03, _BMC Bioinformatics_] - [[Prodigal: prokaryotic gene recognition and translation initiation site identification.](https://doi.org/10.1186/1471-2105-11-119)]
+- [[Pyrodigal](https://github.com/althonos/pyrodigal)] - [Cython/Python, v3.5.2, 2024.9] - [2022.4, _J Open Source Softw_] - [[Pyrodigal: Python bindings and interface to Prodigal, an efficient method for gene prediction in prokaryotes.](https://joss.theoj.org/papers/10.21105/joss.04296)]
+- [[Prokka](https://github.com/tseemann/prokka)] - [Perl, v1.14.5, 2019.11] - [2014.03, _Bioinformatics_] - [[Prokka: rapid prokaryotic genome annotation.](https://doi.org/10.1093/bioinformatics/btu153)]
+- [[Barrnap](https://github.com/tseemann/barrnap)] - [Perl/Shell, 0.9, 2018.4] - [BAsic Rapid Ribosomal RNA Predictor. Barrnap predicts the location of ribosomal RNA genes in genomes. ]
+- [[RNAmmer](https://services.healthtech.dtu.dk/services/RNAmmer-1.2/)] - [na, v1.2, na]
+- [[tRNAscan-SE 2.0](https://github.com/UCSC-LoweLab/tRNAscan-SE)] - [C/Perl, v2.0.12, 2022.11] - [2021.8, _Nucleic Acids Res_] - [[tRNAscan-SE 2.0: improved detection and functional classification of transfer RNA genes.](https://doi.org/10.1093/nar/gkab688)]
+- [[tRNAscan-SE](https://trna.ucsc.edu/tRNAscan-SE/)] - [Web, Web, Web] - [2019.5, _Methods Mol Biol_] - [[tRNAscan-SE: Searching for tRNA Genes in Genomic Sequences.](https://doi.org/10.1007/978-1-4939-9173-0_1)]
+- [[PILERCR](http://www.drive5.com/pilercr/)] - [v1.06] - [2007.1, _BMC Bioinform_] - [[PILER-CR: Fast and accurate identification of CRISPR repeats.](https://doi.org/10.1186/1471-2105-8-18)]
+- [[pybarrnap](https://github.com/moshi4/pybarrnap)] - [Python, v0.5.0, 2024.3] - [Shimoyama, Y. (2024). pybarrnap: Python implementation of barrnap [Computer software].]
+
+## 小分子，肽 | small moleculars, peptides
+### 信号肽 | signal peptides
+- [[SignalP](https://github.com/fteufel/signalp-6.0)] - [Python, v6, 2022.1] [2022.1, _Nat Biotechnol_] - [[SignalP 6.0 predicts all five types of signal peptides using protein language models](https://doi.org/10.1038/s41587-021-01156-3)]
