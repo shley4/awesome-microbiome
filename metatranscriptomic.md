@@ -6,7 +6,8 @@
 - [[salmon](https://github.com/COMBINE-lab/salmon)] - [C++, v1.10.1, 2023.03] - [2017.03, _Nat Methods_] - [[Salmon provides fast and bias-aware quantification of transcript expression.](https://doi.org/10.1038/nmeth.4197)]
 - [[RiboDetector](https://github.com/hzi-bifo/RiboDetector)] - [Python, v0.3.1, 2024.1] - [2022.6, _Nucleic Acids Res_] - [[Rapid and accurate identification of ribosomal RNA sequences via deep learning](https://doi.org/10.1093/nar/gkac112)]
 - [[kallisto](https://github.com/pachterlab/kallisto)] - [C/C++, v0.51.1, 2024.9] - [2016.4, _Nat Biotechnol_] - [[Near optimal probabilistic RNA-seq quantification.](https://doi.org/10.1038/nbt.3519)]
+- [[NanoCount](https://github.com/a-slide/NanoCount)] - [Python, v1.1.0, 2022.12] - [2022.2, _Nucleic Acids Res_] - [[Accurate expression quantification from nanopore direct RNA sequencing with NanoCount.](https://doi.org/10.1093/nar/gkab1129)]
 
 ## 组装 | assembly
-- [[SPAdes/rnaSPAdes](https://github.com/ablab/spades)] -  [] - [2019.9, _Gigascience_] - [[rnaSPAdes: a de novo transcriptome assembler and its application to RNA-Seq data.](https://doi.org/10.1093/gigascience/giz100)]
+- [[SPAdes/rnaSPAdes](https://github.com/ablab/spades)] -  [C++, v4.0.0, 2024.6] - [2019.9, _Gigascience_] - [[rnaSPAdes: a de novo transcriptome assembler and its application to RNA-Seq data.](https://doi.org/10.1093/gigascience/giz100)]
 - [[idba/IDBA-tran](https://github.com/loneknightpy/idba)] - [C++, v1.1.3, 2016.7] - [2013.7, _Bioinformatics_] - [[IDBA-tran: a more robust de novo de Bruijn graph assembler for transcriptomes with uneven expression levels.](https://doi.org/10.1093/bioinformatics/btt219)]
