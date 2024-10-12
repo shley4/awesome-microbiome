@@ -12,6 +12,9 @@
 - [[graftM](https://github.com/geronimp/graftM)] - [Python, v0.14.0, 2022.5] - [2018.6, _Nucleic Acids Res_] - [[GraftM: a tool for scalable, phylogenetically informed classification of genes within metagenomes.](https://doi.org/10.1093/nar/gky174)]
 - [CD-Search](http://www.ncbi.nlm.nih.gov/Structure/cdd/wrpsb.cgi) - [Web] - [2004.7, _Nucleic Acids Res_] - [CD-Search: protein domain annotations on the fly.](https://doi.org/10.1093/nar/gkh454)
 - [[HMMER3](https://github.com/EddyRivasLab/hmmer)] - [C, v3.4, 2023.8] - [2011.10, _PLoS Comput Biol_] - [[Accelerated profile HMM searches.](https://doi.org/10.1371/journal.pcbi.1002195)]
+- [[DeepARG](https://github.com/gaarangoa/deeparg)] - [Python2.7, NA, 2023.11] - [2018.2, _Microbiome_] - [[DeepARG: a deep learning approach for predicting antibiotic resistance genes from metagenomic data](https://doi.org/10.1186/s40168-018-0401-z)]
+- [ARG-OAP](https://galaxyproject.org/use/args-oap/)
+- [[argNorm](https://github.com/BigDataBiology/argNorm)] - [Python, v0.6.0, 2024.8] - [2024.10, _QUT ePrints_] - [[argNorm: Normalization of antibiotic resistance gene annotations to the Antibiotic Resistance Ontology (ARO)](https://eprints.qut.edu.au/252448/)]
 
 
 ### 数据库 | databases
