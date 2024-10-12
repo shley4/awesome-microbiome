@@ -21,5 +21,8 @@ The magic microbiome collects tools, algorithms, workflows, and databases for mi
 
 - [宏转录组 | metatranscriptomics](./metatranscriptomic.md)
 
+## Contribution
+Feel free to contribute and submit a PR.
+
 ## Contact
 This repository was created by [Jie Li](https://github.com/lijierr).

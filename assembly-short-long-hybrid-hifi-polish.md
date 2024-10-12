@@ -31,7 +31,7 @@
 - [[OPERA-MS](https://github.com/CSB5/OPERA-MS)] - [C++/Python, v0.8.3, 2020.06] - [2019.07, _Nat Biotechnol_] - [[Hybrid metagenomic assembly enables high-resolution analysis of resistance determinants and mobile elements in human microbiomes.](https://doi.org/10.1038/s41587-019-0191-2)]
 - [[Unicycler](https://github.com/rrwick/Unicycler)] - [C++, v0.5.1, 2024.07] - [2017.06, _PloS Comput Biol_] - [[Unicycler: resolving bacterial genome assemblies from short and long sequencing reads.](https://doi.org/10.1371/journal.pcbi.1005595)]
 - [[MaSuRCA](https://github.com/alekseyzimin/masurca)] - [M4/Perl, v4.1.1, 2024.2] - [2017.5, _Genome Res_] - [[Hybrid assembly of the large and highly repetitive genome of Aegilops tauschii, a progenitor of bread wheat, with the mega-reads algorithm.](https://doi.org/10.1101/gr.213405.116)]
-
+- [[HyLight](https://github.com/LuoGroup2023/HyLight)] - [C++/Python, v1.0.0, 2024.9] - [2024.10, _Nat Commun_] - [[HyLight: Strain aware assembly of low coverage metagenomes.](https://doi.org/10.1038/s41467-024-52907-0)]
 
 ## PB HiFi
 - [[hifiasm-meta](https://github.com/xfengnefx/hifiasm-meta/)] - [C++, v0.3.2, 2024.9] - [2024.04 _Genome Biol_] - [[Evaluating and improving the representation of bacterial contents in long-read metagenome assemblies.](https://doi.org/10.1186/s13059-024-03234-6)]
