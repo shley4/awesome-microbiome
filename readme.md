@@ -28,4 +28,4 @@ Feel free to contribute and submit a PR.
 Star to follow the updates.
 
 ## Contact
-This repository was created by [Jie Li](https://github.com/lijierr).
+This repository was created by [Jie Li](https://github.com/lijier6).
