@@ -23,6 +23,8 @@ The awesome microbiome collects tools, algorithms, workflows, and databases for 
 
 - [metatranscriptomics](./14.metatranscriptomic.md)
 
+- [surveillance](./15.surveillance.md)
+
 ## Contribution
 Feel free to contribute and submit a PR.
 
