@@ -21,9 +21,11 @@ The awesome microbiome collects tools, algorithms, workflows, and databases for 
 
 - [build a tree and visualization](./13.build_tree-view.md)
 
-- [metatranscriptomics](./14.metatranscriptomic.md)
+- [microbil diversity and network](14.microbial_diversity.md)
 
-- [surveillance](./15.surveillance.md)
+- [metatranscriptomics](./15.metatranscriptomic.md)
+
+- [surveillance](./16.surveillance.md)
 
 ## Contribution
 Feel free to contribute and submit a PR.
