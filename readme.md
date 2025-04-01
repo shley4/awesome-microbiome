@@ -28,7 +28,7 @@ The awesome microbiome collects tools, algorithms, workflows, and databases for 
 - [surveillance](./16.surveillance.md)
 
 ## Contribution
-Feel free to contribute and submit a PR.
+Feel free to contribute.
 
 ## Updates
 Star to follow the updates.
