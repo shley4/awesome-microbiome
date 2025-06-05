@@ -27,11 +27,12 @@ The awesome microbiome collects tools, algorithms, workflows, and databases for 
 
 - [surveillance](./16.surveillance.md)
 
+- [methylation](./17.methylation.md)
+
+- [pangenome](./18.pangenome.md)
+
 ## Contribution
 Feel free to contribute.
 
-## Updates
-Star to follow the updates.
-
 ## Contact
-This repository was created by [Jie Li](https://github.com/lijier6).
+This repository was created by [Jie Li](https://github.com/sh0ley4).
