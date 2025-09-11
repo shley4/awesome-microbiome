@@ -450,7 +450,8 @@ This repository serves as a continuously updated collection of algorithms, tools
 - [`nanoMDBG`](https://github.com/GaetanBenoitDev/metaMDBG) - (C++, v1.1, 2024.12)
     - Benoit G, James R, Raguideau S, et al. High-quality metagenome assembly from nanopore reads with nanoMDBG. **bioRxiv** **(2025)**. https://doi.org/10.1101/2025.04.22.649928
 
-- [`myloasm`](https://github.com/bluenote-1577/myloasm/) - (Rust, v0.1.0, 2025.5) - A new high-resolution long-read metagenome assembler for even noisy reads, documentaion: https://myloasm-docs.github.io
+- [`myloasm`](https://github.com/bluenote-1577/myloasm/) - (Rust, v0.2.0, 2025.8) - A new high-resolution long-read metagenome assembler for even noisy reads, documentaion: https://myloasm-docs.github.io
+    - Shaw J, Marin MG, Li H. High-resolution metagenome assembly for modern long reads with myloasm. **bioRxiv** **(2025)**. https://doi.org/10.1101/2025.09.05.674543
 
 ### Hybrid assembly
 - [`idba/IDBA-Hybrid`](https://github.com/loneknightpy/idba) - (C++, v1.1.3, 2016.7)
@@ -1019,7 +1020,10 @@ This repository serves as a continuously updated collection of algorithms, tools
     - Shimoyama Y. ANIclustermap: A tool for drawing ANI clustermap between all-vs-all microbial genomes. [Computer software] (2022). 
 
 - [`EvANI`](https://github.com/sinamajidian/EvANI) - (Shell/Python, Norelease)
-    - Sina Majidian, Stephen Hwang, Mohsen Zakeri, Ben Langmead. EvANI benchmarking workflow for evolutionary distance estimation. **bioRxiv**. **(2025)**. https://doi.org/10.1101/2025.02.23.639716
+    - Sina Majidian, Stephen Hwang, Mohsen Zakeri, Ben Langmead. EvANI benchmarking workflow for evolutionary distance estimation. **bioRxiv** **(2025)**. https://doi.org/10.1101/2025.02.23.639716
+
+- [MANIAC](https://github.com/bioinf-mcb/MANIAC) - (Snakemake, v1.0.0, 2024.10) - MMseqs2-based ANI calculator.
+    - Ndovie W, Havr´anek J,  Leconte J, et al. Exploration of the genetic landscape of bacterial dsDNA viruses reveals an ANI gap amidst extensive mosaicism. **bioRxiv** **(2024)**. https://doi.org/10.1101/2024.04.23.590796
 
 ### view comparative map
 - [`gggenes`](https://github.com/wilkox/gggenes) - Draw gene arrow maps in ggplot2
@@ -1153,6 +1157,9 @@ This repository serves as a continuously updated collection of algorithms, tools
 - [`SingleM`](https://github.com/wwood/singlem) - (Python, v0.19.0, 2025.5)
     - Woodcroft BJ, Aroney STN, Zhao R, et al. Comprehensive taxonomic identification of microbial species in metagenomic data using SingleM and Sandpiper. **_Nat Biotechnol_** (2025). https://doi.org/10.1038/s41587-025-02738-1
 
+- [`AEMB implemented in strobealign`](https://github.com/ksahlin/strobealign) - Benchmark: https://github.com/BigDataBiology/AEMB_benchmark
+    - Pan S, Tolstoganov I, Coelho L, et al. AEMB: efficient abundance estimation for metagenomic binning. **bioRxiv** (2025). https://doi.org/10.1101/2025.07.30.667338
+
 ### Diversity
 - [`q2-kmerizer`](https://github.com/bokulich-lab/q2-kmerizer)
     - Bokulich NA. Integrating sequence composition information into microbial diversity analyses with k-mer frequency counting. **_mSystems_** 10 **(2025)**. https://doi.org/10.1128/msystems.01550-24
@@ -1255,4 +1262,4 @@ This repository serves as a continuously updated collection of algorithms, tools
     - Shivakumar VS, Langmead B. Mumemto: efficient maximal matching across pangenomes. **_Genome Biol_** 26, 169 **(2025)**. https://doi.org/10.1186/s13059-025-03644-0
 
 ## Contact
-This repository was created and maintained by [Jie Li](https://github.com/shley4).
+This repository was created and maintained by [Jie Li](https://github.com/shirleylijie).
